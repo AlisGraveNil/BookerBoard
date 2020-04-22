@@ -1,0 +1,407 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 5EA09DBB
+P 7650 2850
+F 0 "MX1" H 7683 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 2999 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7025 2825 60  0001 C CNN
+F 3 "" H 7025 2825 60  0001 C CNN
+	1    7650 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX5
+U 1 1 5EA0A3E0
+P 8000 2850
+F 0 "MX5" H 8033 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 2999 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7375 2825 60  0001 C CNN
+F 3 "" H 7375 2825 60  0001 C CNN
+	1    8000 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX9
+U 1 1 5EA0B2DC
+P 8350 2850
+F 0 "MX9" H 8383 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 2999 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7725 2825 60  0001 C CNN
+F 3 "" H 7725 2825 60  0001 C CNN
+	1    8350 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 5EA0BB57
+P 7650 3400
+F 0 "MX2" H 7683 3623 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 3549 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7025 3375 60  0001 C CNN
+F 3 "" H 7025 3375 60  0001 C CNN
+	1    7650 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX6
+U 1 1 5EA0CA5D
+P 8000 3400
+F 0 "MX6" H 8033 3623 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 3549 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7375 3375 60  0001 C CNN
+F 3 "" H 7375 3375 60  0001 C CNN
+	1    8000 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX10
+U 1 1 5EA0E16F
+P 8350 3400
+F 0 "MX10" H 8383 3623 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 3549 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7725 3375 60  0001 C CNN
+F 3 "" H 7725 3375 60  0001 C CNN
+	1    8350 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 5EA0EB84
+P 7650 3950
+F 0 "MX3" H 7683 4173 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 4099 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7025 3925 60  0001 C CNN
+F 3 "" H 7025 3925 60  0001 C CNN
+	1    7650 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX7
+U 1 1 5EA0F9EC
+P 8000 3950
+F 0 "MX7" H 8033 4173 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 4099 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7375 3925 60  0001 C CNN
+F 3 "" H 7375 3925 60  0001 C CNN
+	1    8000 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX11
+U 1 1 5EA10109
+P 8350 3950
+F 0 "MX11" H 8383 4173 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 4099 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7725 3925 60  0001 C CNN
+F 3 "" H 7725 3925 60  0001 C CNN
+	1    8350 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 5EA10B37
+P 7650 4500
+F 0 "MX4" H 7683 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 4649 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7025 4475 60  0001 C CNN
+F 3 "" H 7025 4475 60  0001 C CNN
+	1    7650 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8
+U 1 1 5EA119C6
+P 8000 4500
+F 0 "MX8" H 8033 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 4649 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7375 4475 60  0001 C CNN
+F 3 "" H 7375 4475 60  0001 C CNN
+	1    8000 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 5EA12011
+P 8350 4500
+F 0 "MX12" H 8383 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 4649 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7725 4475 60  0001 C CNN
+F 3 "" H 7725 4475 60  0001 C CNN
+	1    8350 4500
+	1    0    0    -1  
+$EndComp
+Text GLabel 7400 3200 0    50   Input ~ 0
+row0
+Text GLabel 7400 3750 0    50   Input ~ 0
+row1
+Text GLabel 7400 4300 0    50   Input ~ 0
+row2
+Text GLabel 7400 4850 0    50   Input ~ 0
+row3
+Text GLabel 7800 2500 1    50   Input ~ 0
+col0
+Text GLabel 8150 2500 1    50   Input ~ 0
+col1
+Text GLabel 8500 2500 1    50   Input ~ 0
+col2
+$Comp
+L promicro:ProMicro U1
+U 1 1 5EA17D41
+P 5300 3100
+F 0 "U1" H 5300 4137 60  0000 C CNN
+F 1 "ProMicro" H 5300 4031 60  0000 C CNN
+F 2 "promicro:ProMicro" H 5400 2050 60  0001 C CNN
+F 3 "" H 5400 2050 60  0000 C CNN
+	1    5300 3100
+	1    0    0    -1  
+$EndComp
+Text GLabel 6000 2450 2    50   Input ~ 0
+gnd
+Text GLabel 4600 2550 0    50   Input ~ 0
+gnd
+Text GLabel 4600 2650 0    50   Input ~ 0
+gnd
+$Comp
+L Connector_Generic:Conn_02x01 J1
+U 1 1 5EA1BB1B
+P 6500 1800
+F 0 "J1" V 6596 1712 50  0000 R CNN
+F 1 "Conn_02x01" V 6505 1712 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x02_P3.81mm_Drill0.8mm" H 6500 1800 50  0001 C CNN
+F 3 "~" H 6500 1800 50  0001 C CNN
+	1    6500 1800
+	0    -1   -1   0   
+$EndComp
+Text GLabel 6500 1500 1    50   Input ~ 0
+gnd
+Text GLabel 6500 2000 3    50   Input ~ 0
+rst
+Text GLabel 6000 2550 2    50   Input ~ 0
+rst
+Text GLabel 4600 3150 0    50   Input ~ 0
+row0
+Text GLabel 4600 3250 0    50   Input ~ 0
+row1
+Text GLabel 4600 3350 0    50   Input ~ 0
+row2
+Text GLabel 4600 3450 0    50   Input ~ 0
+row3
+Text GLabel 6000 3450 2    50   Input ~ 0
+col0
+Text GLabel 6000 3250 2    50   Input ~ 0
+col2
+Text GLabel 6000 3350 2    50   Input ~ 0
+col1
+$Comp
+L Device:D_Small D1
+U 1 1 5EA22B46
+P 7600 3100
+F 0 "D1" V 7646 3032 50  0000 R CNN
+F 1 "D_Small" V 7555 3032 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 3100 50  0001 C CNN
+F 3 "~" V 7600 3100 50  0001 C CNN
+	1    7600 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D5
+U 1 1 5EA23A34
+P 7950 3100
+F 0 "D5" V 7996 3032 50  0000 R CNN
+F 1 "D_Small" V 7905 3032 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7950 3100 50  0001 C CNN
+F 3 "~" V 7950 3100 50  0001 C CNN
+	1    7950 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D9
+U 1 1 5EA2487E
+P 8300 3100
+F 0 "D9" V 8346 3032 50  0000 R CNN
+F 1 "D_Small" V 8255 3032 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8300 3100 50  0001 C CNN
+F 3 "~" V 8300 3100 50  0001 C CNN
+	1    8300 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D2
+U 1 1 5EA25632
+P 7600 3650
+F 0 "D2" V 7646 3582 50  0000 R CNN
+F 1 "D_Small" V 7555 3582 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 3650 50  0001 C CNN
+F 3 "~" V 7600 3650 50  0001 C CNN
+	1    7600 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D6
+U 1 1 5EA26C9B
+P 7950 3650
+F 0 "D6" V 7996 3582 50  0000 R CNN
+F 1 "D_Small" V 7905 3582 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7950 3650 50  0001 C CNN
+F 3 "~" V 7950 3650 50  0001 C CNN
+	1    7950 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D10
+U 1 1 5EA27DD3
+P 8300 3650
+F 0 "D10" V 8346 3582 50  0000 R CNN
+F 1 "D_Small" V 8255 3582 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8300 3650 50  0001 C CNN
+F 3 "~" V 8300 3650 50  0001 C CNN
+	1    8300 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D3
+U 1 1 5EA28E07
+P 7600 4200
+F 0 "D3" V 7646 4132 50  0000 R CNN
+F 1 "D_Small" V 7555 4132 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 4200 50  0001 C CNN
+F 3 "~" V 7600 4200 50  0001 C CNN
+	1    7600 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D7
+U 1 1 5EA2BEA8
+P 7950 4200
+F 0 "D7" V 7996 4132 50  0000 R CNN
+F 1 "D_Small" V 7905 4132 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7950 4200 50  0001 C CNN
+F 3 "~" V 7950 4200 50  0001 C CNN
+	1    7950 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D11
+U 1 1 5EA2CB20
+P 8300 4200
+F 0 "D11" V 8346 4132 50  0000 R CNN
+F 1 "D_Small" V 8255 4132 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8300 4200 50  0001 C CNN
+F 3 "~" V 8300 4200 50  0001 C CNN
+	1    8300 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 2500 8500 2800
+Connection ~ 8500 2800
+Wire Wire Line
+	8500 2800 8500 3350
+Connection ~ 8500 3350
+Wire Wire Line
+	8500 3350 8500 3900
+Connection ~ 8500 3900
+Wire Wire Line
+	8500 3900 8500 4450
+Wire Wire Line
+	8150 2500 8150 2800
+Connection ~ 8150 2800
+Wire Wire Line
+	8150 2800 8150 3350
+Connection ~ 8150 3350
+Wire Wire Line
+	8150 3350 8150 3900
+Connection ~ 8150 3900
+Wire Wire Line
+	8150 3900 8150 4450
+Wire Wire Line
+	7800 2500 7800 2800
+Connection ~ 7800 2800
+Wire Wire Line
+	7800 2800 7800 3350
+Connection ~ 7800 3350
+Wire Wire Line
+	7800 3350 7800 3900
+Connection ~ 7800 3900
+Wire Wire Line
+	7800 3900 7800 4450
+Wire Wire Line
+	8300 3200 7950 3200
+Connection ~ 7600 3200
+Wire Wire Line
+	7600 3200 7400 3200
+Connection ~ 7950 3200
+Wire Wire Line
+	7950 3200 7600 3200
+Wire Wire Line
+	8300 3750 7950 3750
+Connection ~ 7600 3750
+Wire Wire Line
+	7600 3750 7400 3750
+Connection ~ 7950 3750
+Wire Wire Line
+	7950 3750 7600 3750
+Wire Wire Line
+	8300 4300 7950 4300
+Connection ~ 7600 4300
+Wire Wire Line
+	7600 4300 7400 4300
+Connection ~ 7950 4300
+Wire Wire Line
+	7950 4300 7600 4300
+$Comp
+L Device:D_Small D12
+U 1 1 5EA31099
+P 8300 4750
+F 0 "D12" V 8346 4682 50  0000 R CNN
+F 1 "D_Small" V 8255 4682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8300 4750 50  0001 C CNN
+F 3 "~" V 8300 4750 50  0001 C CNN
+	1    8300 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D8
+U 1 1 5EA32153
+P 7950 4750
+F 0 "D8" V 7996 4682 50  0000 R CNN
+F 1 "D_Small" V 7905 4682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7950 4750 50  0001 C CNN
+F 3 "~" V 7950 4750 50  0001 C CNN
+	1    7950 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D4
+U 1 1 5EA3304B
+P 7600 4750
+F 0 "D4" V 7646 4682 50  0000 R CNN
+F 1 "D_Small" V 7555 4682 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 4750 50  0001 C CNN
+F 3 "~" V 7600 4750 50  0001 C CNN
+	1    7600 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8300 4850 7950 4850
+Connection ~ 7600 4850
+Wire Wire Line
+	7600 4850 7400 4850
+Connection ~ 7950 4850
+Wire Wire Line
+	7950 4850 7600 4850
+$EndSCHEMATC
