@@ -1,0 +1,261 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA09DBB
+P 7650 2850
+F 0 "MX?" H 7683 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 2999 20  0000 C CNN
+F 2 "" H 7025 2825 60  0001 C CNN
+F 3 "" H 7025 2825 60  0001 C CNN
+	1    7650 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0A3E0
+P 8000 2850
+F 0 "MX?" H 8033 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 2999 20  0000 C CNN
+F 2 "" H 7375 2825 60  0001 C CNN
+F 3 "" H 7375 2825 60  0001 C CNN
+	1    8000 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0B2DC
+P 8350 2850
+F 0 "MX?" H 8383 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 2999 20  0000 C CNN
+F 2 "" H 7725 2825 60  0001 C CNN
+F 3 "" H 7725 2825 60  0001 C CNN
+	1    8350 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0BB57
+P 7650 3300
+F 0 "MX?" H 7683 3523 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 3449 20  0000 C CNN
+F 2 "" H 7025 3275 60  0001 C CNN
+F 3 "" H 7025 3275 60  0001 C CNN
+	1    7650 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0CA5D
+P 8000 3300
+F 0 "MX?" H 8033 3523 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 3449 20  0000 C CNN
+F 2 "" H 7375 3275 60  0001 C CNN
+F 3 "" H 7375 3275 60  0001 C CNN
+	1    8000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0E16F
+P 8350 3300
+F 0 "MX?" H 8383 3523 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 3449 20  0000 C CNN
+F 2 "" H 7725 3275 60  0001 C CNN
+F 3 "" H 7725 3275 60  0001 C CNN
+	1    8350 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0EB84
+P 7650 3750
+F 0 "MX?" H 7683 3973 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 3899 20  0000 C CNN
+F 2 "" H 7025 3725 60  0001 C CNN
+F 3 "" H 7025 3725 60  0001 C CNN
+	1    7650 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA0F9EC
+P 8000 3750
+F 0 "MX?" H 8033 3973 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 3899 20  0000 C CNN
+F 2 "" H 7375 3725 60  0001 C CNN
+F 3 "" H 7375 3725 60  0001 C CNN
+	1    8000 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA10109
+P 8350 3750
+F 0 "MX?" H 8383 3973 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 3899 20  0000 C CNN
+F 2 "" H 7725 3725 60  0001 C CNN
+F 3 "" H 7725 3725 60  0001 C CNN
+	1    8350 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA10B37
+P 7650 4200
+F 0 "MX?" H 7683 4423 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 4349 20  0000 C CNN
+F 2 "" H 7025 4175 60  0001 C CNN
+F 3 "" H 7025 4175 60  0001 C CNN
+	1    7650 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA119C6
+P 8000 4200
+F 0 "MX?" H 8033 4423 60  0000 C CNN
+F 1 "MX-NoLED" H 8033 4349 20  0000 C CNN
+F 2 "" H 7375 4175 60  0001 C CNN
+F 3 "" H 7375 4175 60  0001 C CNN
+	1    8000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5EA12011
+P 8350 4200
+F 0 "MX?" H 8383 4423 60  0000 C CNN
+F 1 "MX-NoLED" H 8383 4349 20  0000 C CNN
+F 2 "" H 7725 4175 60  0001 C CNN
+F 3 "" H 7725 4175 60  0001 C CNN
+	1    8350 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 2500 7800 2800
+Wire Wire Line
+	7800 2800 7800 3250
+Connection ~ 7800 2800
+Wire Wire Line
+	7800 3250 7800 3700
+Connection ~ 7800 3250
+Wire Wire Line
+	7800 4150 7800 3700
+Connection ~ 7800 3700
+Wire Wire Line
+	8150 2500 8150 2800
+Connection ~ 8150 2800
+Wire Wire Line
+	8150 2800 8150 3250
+Connection ~ 8150 3250
+Wire Wire Line
+	8150 3250 8150 3700
+Connection ~ 8150 3700
+Wire Wire Line
+	8150 3700 8150 4150
+Wire Wire Line
+	8500 2500 8500 2800
+Connection ~ 8500 2800
+Wire Wire Line
+	8500 2800 8500 3250
+Connection ~ 8500 3250
+Wire Wire Line
+	8500 3250 8500 3700
+Connection ~ 8500 3700
+Wire Wire Line
+	8500 3700 8500 4150
+Wire Wire Line
+	8300 3000 7950 3000
+Connection ~ 7600 3000
+Wire Wire Line
+	7600 3000 7400 3000
+Connection ~ 7950 3000
+Wire Wire Line
+	7950 3000 7600 3000
+Wire Wire Line
+	8300 3450 7950 3450
+Connection ~ 7600 3450
+Wire Wire Line
+	7600 3450 7400 3450
+Connection ~ 7950 3450
+Wire Wire Line
+	7950 3450 7600 3450
+Wire Wire Line
+	8300 3900 7950 3900
+Connection ~ 7600 3900
+Wire Wire Line
+	7600 3900 7400 3900
+Connection ~ 7950 3900
+Wire Wire Line
+	7950 3900 7600 3900
+Wire Wire Line
+	8300 4350 7950 4350
+Connection ~ 7600 4350
+Wire Wire Line
+	7600 4350 7400 4350
+Connection ~ 7950 4350
+Wire Wire Line
+	7950 4350 7600 4350
+Text GLabel 7400 3000 0    50   Input ~ 0
+row0
+Text GLabel 7400 3450 0    50   Input ~ 0
+row1
+Text GLabel 7400 3900 0    50   Input ~ 0
+row2
+Text GLabel 7400 4350 0    50   Input ~ 0
+row3
+Text GLabel 7800 2500 1    50   Input ~ 0
+col0
+Text GLabel 8150 2500 1    50   Input ~ 0
+col1
+Text GLabel 8500 2500 1    50   Input ~ 0
+col2
+$Comp
+L promicro:ProMicro U?
+U 1 1 5EA17D41
+P 5300 3100
+F 0 "U?" H 5300 4137 60  0000 C CNN
+F 1 "ProMicro" H 5300 4031 60  0000 C CNN
+F 2 "" H 5400 2050 60  0000 C CNN
+F 3 "" H 5400 2050 60  0000 C CNN
+	1    5300 3100
+	1    0    0    -1  
+$EndComp
+Text GLabel 6000 2450 2    50   Input ~ 0
+gnd
+Text GLabel 4600 2550 0    50   Input ~ 0
+gnd
+Text GLabel 4600 2650 0    50   Input ~ 0
+gnd
+$Comp
+L Connector_Generic:Conn_02x01 J?
+U 1 1 5EA1BB1B
+P 6500 1800
+F 0 "J?" V 6596 1712 50  0000 R CNN
+F 1 "Conn_02x01" V 6505 1712 50  0000 R CNN
+F 2 "" H 6500 1800 50  0001 C CNN
+F 3 "~" H 6500 1800 50  0001 C CNN
+	1    6500 1800
+	0    -1   -1   0   
+$EndComp
+Text GLabel 6500 1500 1    50   Input ~ 0
+gnd
+Text GLabel 6500 2000 3    50   Input ~ 0
+rst
+Text GLabel 6000 2550 2    50   Input ~ 0
+rst
+$EndSCHEMATC
